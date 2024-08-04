@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "To Do List", "To Do List\To Do List.vcxproj", "{A7EC5215-9307-415D-AF40-BC2D3F210157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Debug|x64.ActiveCfg = Debug|x64
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Debug|x64.Build.0 = Debug|x64
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Debug|x86.Build.0 = Debug|Win32
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Release|x64.ActiveCfg = Release|x64
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Release|x64.Build.0 = Release|x64
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Release|x86.ActiveCfg = Release|Win32
+		{A7EC5215-9307-415D-AF40-BC2D3F210157}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA089C0-D5DB-4339-83E3-9DB903006E8B}
+	EndGlobalSection
+EndGlobal
